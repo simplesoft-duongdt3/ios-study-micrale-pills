@@ -302,6 +302,7 @@
 				841561DE1E8EA34600CB9267 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
